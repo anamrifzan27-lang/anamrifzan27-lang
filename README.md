@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Anam 👋
 
-<!--
-**anamrifzan27-lang/anamrifzan27-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Cybersecurity & Digital Forensics
 
-Here are some ideas to get you started:
+🔐 Exploring offensive and defensive security — interested in 
+penetration testing, red teaming, and SOC analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently building skills through CTFs 
+and hands-on labs
+
+---
+
+### 🛠️ Skills & Tools
+
+**Hands-on experience:**
+- Digital Forensics — Autopsy, threat hunting coursework
+- Network fundamentals — Cisco Packet Tracer, TCP/IP
+- Python scripting — RSA encryption implementation
+- Packet analysis — Wireshark (academic labs)
+
+**Familiar with:**
+- SPSS, Power BI — used in research and assignments
+- Incident analysis, data breach concepts
+- Cryptography fundamentals
+
+**Currently learning:**
+- Nmap, Burp Suite, Metasploit
+- Linux command line
+- SIEM basics (Splunk)
+
+---
+
+### 📂 Projects
+- 🎮 **Cybersecurity Awareness Game** — Unity simulation 
+game built as thesis project
+- 🔐 **RSA Encryption Tool** — Python implementation of 
+RSA file encryption for access control
+- 🔍 **Threat Hunting Analysis** — Wireshark and 
+Autopsy-based threat detection coursework
+- 🔬 **Cybersecurity Risk Analysis** — Academic research 
+on insider threats and data-assisted risk analysis 
+(simulated data)
+
+---
+
+### 🔗 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/anam-rifzan-0a3ab8269)
+- 🎯 [TryHackMe](https://tryhackme.com/p/Namnam)
+- 📧 anamrifzan27@gmail.com
+
+---
+
+*Red team mindset. Blue team awareness. 
+Building the skills to back it up.*
